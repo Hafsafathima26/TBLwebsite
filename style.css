@@ -85,3 +85,9 @@ p {
 .links:hover{
     background-color:navy;
 }
+a{
+    text-decoration:none;
+}
+.article:hover{
+    color:coral;
+}
